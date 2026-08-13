@@ -1,4 +1,4 @@
-# Forest Fire Detection Model
+# Forest Fire Predictor Model
 
 A machine learning project for predicting forest fire risk in Algeria using weather data and Fire Weather Index (FWI) components.
 
